@@ -1,0 +1,141 @@
+.navbar-brand img {
+  max-width: 90px;;
+}
+
+/*  navbar  */
+
+/* Style the button that is used to open the sidepanel */
+.openbtn {
+font-size: 25px;
+cursor: pointer;
+background-color: #F8F9FA;
+color: black;
+border: none;
+}
+.openbtn:hover {
+background-color: #6C757D;;
+border-radius: 25%;
+border: none;
+}
+
+/*   navbar sign up    */
+.sign-in{
+margin: 5px;
+border-radius: 30px;
+font-size: 25px;
+font-weight: bold;
+font-size: 15px;
+font-weight: 500;
+}
+.sign-in:hover {
+color: #444;
+background-color: #6C757D;
+}
+
+/* The sidepanel menu */
+.sidepanel {
+height: 100vh; /* Specify a height */
+width: 0; /* 0 width - change this with JavaScript */
+position: fixed; /* Stay in place */
+z-index: 1; /* Stay on top */
+top: 0;
+left: 0;
+background-color: white; /* Black*/
+overflow-x: hidden; /* Disable horizontal scroll */
+padding-top: 60px; /* Place content 60px from the top */
+transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
+}
+
+/* The sidepanel links */
+.sidepanel a{
+padding: 8px 8px 8px 32px;
+text-decoration: none;
+font-size: 13px;
+color: black;
+display: block;
+transition: 0.3s;
+line-height: 3px;
+font-weight: 600;
+}
+/* When you mouse over the navigation links, change their color */
+.sidepanel a:hover {
+color: #444;
+}
+
+/* Position and style the close button (top right corner) */
+.sidepanel .closebtn {
+position: absolute;
+top: 0;
+right: 25px;
+font-size: 36px;
+margin-left: 50px;
+}
+
+
+
+
+/* ##################################################### */
+/* responsive style for all the screens with media query */
+
+@media (min-width: 1400px)  {
+
+}
+
+@media (min-width: 768px) and (max-width: 1400px) {
+
+  .signUpTypeSelect a {
+    color: black;
+    font-weight: 500;
+    padding-top: 5px;
+  }
+
+  .signUpTypeSelect a:hover {
+    font-weight: 700;
+    color: #AB351C;
+
+  }
+
+}
+
+@media (min-width: 538px) and (max-width: 768px) {
+
+
+.signUpTypeSelect a {
+  color: black;
+  font-weight: 500;
+  padding-top: 5px;
+}
+
+.signUpTypeSelect a:hover {
+  font-weight: 700;
+  color: #AB351C;
+
+}
+
+}
+
+@media (min-width: 320px) and (max-width: 538px) {
+
+  .navbar-collapse .collapse {
+    height: 70vh;
+  }
+
+  /* collapse navbar a */
+  .signUpTypeSelect a {
+    color: black;
+    font-weight: 500;
+    padding-top: 5px;
+  }
+  .signUpTypeSelect a:hover {
+    font-weight: 700;
+    color: brown
+  }
+
+  /* hide second nav in small screen*/
+  .d-sm-none ,.d-md-block{
+    display: none;
+  }
+
+}
+
+

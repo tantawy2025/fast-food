@@ -1,0 +1,139 @@
+
+
+@media (min-width: 1400px)  {
+
+
+
+    .cities{
+      font-size: 25px;
+      font-weight: 400;
+      margin-left: 80px;
+    }
+
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1400px) {
+
+
+
+
+
+
+}
+
+@media (min-width: 538px) and (max-width: 768px) {
+
+}
+
+@media (min-width: 320px) and (max-width: 538px) {
+
+
+
+
+
+
+
+}
+
+
+
+/*
+.head-text {
+  color: black;
+}
+
+.text-link {
+  display: inline-block;
+  float: right;
+}
+
+.text-link:hover {
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+@media (min-width: 1400px)  {
+
+  .head-text {
+    display: inline;
+    font-size: 30px;
+    font-weight: bold;
+
+  }
+
+  .text-link {
+
+      margin-top: 19px;
+      margin-right: 80px;
+      font-size: 18px;
+    }
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1400px) {
+
+  .head-text {
+    display: inline;
+    font-size: 30px;
+    font-weight: bold;
+
+  }
+
+  .text-link {
+
+      margin-top: 19px;
+      margin-right: 80px;
+      font-size: 18px;
+    }
+
+
+}
+
+@media (min-width: 538px) and (max-width: 768px) {
+
+  .head-text {
+    display: inline;
+    font-size: 26px;
+    font-weight: bold;
+    margin-left: 80px;
+  }
+
+  .text-link {
+
+      margin-top: 19px;
+      margin-right: 80px;
+      font-size: 18px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 538px) {
+
+  .head-text {
+    font-size: 22px;
+    margin-left: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+
+
+  .text-link {
+
+    margin-top: 6px;
+    margin-right: 23px;
+    font-size: 15px;
+  }
+
+
+
+}
+
+
+
+
+
+*/

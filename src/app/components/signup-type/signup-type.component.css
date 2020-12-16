@@ -1,0 +1,70 @@
+
+.employee a,
+.restaurent a,
+.deliver a{
+  color: black;
+  text-decoration: none;
+}
+
+.employee a:hover{
+  color: black;
+}
+
+
+@media (min-width: 1400px)  {
+
+  h2{
+    font-size:26px ;
+  }
+
+  .employee a:hover{
+    font-size: 17px;
+  }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1400px) {
+
+  h2{
+    font-size:26px ;
+  }
+
+  .employee a:hover{
+    font-size: 17px;
+  }
+
+}
+
+
+@media (min-width: 538px) and (max-width: 768px) {
+
+
+  h2{
+    font-size:22px ;
+  }
+
+  .text-lead {
+    font-size: 14px;;
+  }
+  .employee a:hover{
+    font-size: 15px;
+  }
+
+
+}
+
+@media (min-width: 320px) and (max-width: 538px) {
+
+  h2{
+    font-size:22px ;
+  }
+
+  .text-lead {
+    font-size: 14px;;
+  }
+  .employee a:hover{
+    font-size: 15px;
+  }
+
+}

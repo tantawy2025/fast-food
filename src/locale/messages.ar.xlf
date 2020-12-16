@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="6c6b9effbc160d89629df522cb65479d1263bec2" datatype="html">
+        <source>Hungry? You&apos;re in the right place</source>
+        <target>لو جعــــان فانت في المكان الصح </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/bannar/bannar.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="21a7823ba2a950797338c08c47e7c38ee4d1835a" datatype="html">
+        <source>  Enter Delivery Address</source>
+        <target>  Enter Delivery Address</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/bannar/bannar.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="054b78c61374640c4eb6d45650de56403c94d8c3" datatype="html">
+        <source> Deliver Now </source>
+        <target> Deliver Now </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/bannar/bannar.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="73957a95e5fd7f4f95d5f720a3ecac7a4883f59f" datatype="html">
+        <source>Deliver Now</source>
+        <target>Deliver Now</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/bannar/bannar.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="31fdb0731aa635b19a3aa37e725fd9fd51930a79" datatype="html">
+        <source>Schedual For Later</source>
+        <target>Schedual For Later</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/bannar/bannar.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3848ac85532591b92b2678b75cfb1fdc9c26957" datatype="html">
+        <source>Find Food</source>
+        <target>Find Food</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/bannar/bannar.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0cea93159d3a3cfddd06ed91fde56c7cb29830bb" datatype="html">
+        <source><x id="START_LINK" equiv-text="&lt;a class=&quot;c-dark&quot; href=&quot;#&quot; &gt;"/>Sign in<x id="CLOSE_LINK" equiv-text="&lt;/a&gt; "/> for your recent addresses</source>
+        <target><x id="START_LINK" equiv-text="&lt;a class=&quot;c-dark&quot; href=&quot;#&quot; &gt;"/>Sign in<x id="CLOSE_LINK" equiv-text="&lt;/a&gt; "/> for your recent addresses</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/bannar/bannar.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ba4f24bf9bf3dc4db3d6bc1b8b63339295f0b806" datatype="html">
+        <source>Sign In</source>
+        <target>Sign In</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="721f3b2e3d6d82ea0c251ec67fba9721a9805e05" datatype="html">
+        <source>Create a business account</source>
+        <target>Create a business account</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="52327f6fe6a1ab8c8824c4dc42c631f966344928" datatype="html">
+        <source>Add your restaurant</source>
+        <target>Add your restaurant</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2e30579949c7cf7033e0f3bb95d63b035272dd61" datatype="html">
+        <source>Sign up to deliver</source>
+        <target>Sign up to deliver</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bf8f06222f8bae202f49ed33a2d4b16d4142ea1f" datatype="html">
+        <source><x id="START_ITALIC_TEXT" equiv-text="&lt;i class=&quot;fab fa-apple&quot;&gt;&lt;/i&gt;"/><x id="CLOSE_ITALIC_TEXT" equiv-text="&lt;/i&gt; "/> iPhone</source>
+        <target><x id="START_ITALIC_TEXT" equiv-text="&lt;i class=&quot;fab fa-apple&quot;&gt;&lt;/i&gt;"/><x id="CLOSE_ITALIC_TEXT" equiv-text="&lt;/i&gt; "/> iPhone</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="865c72d6afff21ecb020d5f845b91ad5d8b04b39" datatype="html">
+        <source><x id="START_ITALIC_TEXT" equiv-text="&lt;i class=&quot;fab fa-android&quot;&gt;&lt;/i&gt;"/><x id="CLOSE_ITALIC_TEXT" equiv-text="&lt;/i&gt; "/> Android</source>
+        <target><x id="START_ITALIC_TEXT" equiv-text="&lt;i class=&quot;fab fa-android&quot;&gt;&lt;/i&gt;"/><x id="CLOSE_ITALIC_TEXT" equiv-text="&lt;/i&gt; "/> Android</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2177c841bf548bc76db5b969b789f3a03c93c83f" datatype="html">
+        <source>sign in</source>
+        <target>sign in</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8bec27cb84056a5a32e95418dd10117e33fd1057" datatype="html">
+        <source>Popular near you</source>
+        <target>Popular near you</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/food-near-me/food-near-me.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7337c22091a9329ea6e09fb755ab7a64d696d98c" datatype="html">
+        <source>View all </source>
+        <target>View all </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/food-near-me/food-near-me.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d4e1187f81ff3378a89a8c60ce75a9c3984daab4" datatype="html">
+        <source>McDonald&apos;s® - Holborn</source>
+        <target>McDonald&apos;s® - Holborn</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/food-near-me/food-near-me.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="33e0d4792114fee59062909f4d26cd003d9afed1" datatype="html">
+        <source>£3.99 delivery fee . 20–30 MINS .</source>
+        <target>£3.99 delivery fee . 20–30 MINS .</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/food-near-me/food-near-me.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a18fda41f69f9ddfa6da93f606fafda8b38e288e" datatype="html">
+        <source>McDonald&apos;s® - Holborn <x id="START_TAG_SPAN" equiv-text="&lt;span class=&quot;text-info&quot;&gt; "/> ( new )<x id="CLOSE_TAG_SPAN" equiv-text="&lt;/span&gt;"/></source>
+        <target>McDonald&apos;s® - Holborn <x id="START_TAG_SPAN" equiv-text="&lt;span class=&quot;text-info&quot;&gt; "/> ( new )<x id="CLOSE_TAG_SPAN" equiv-text="&lt;/span&gt;"/></target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/food-near-me/food-near-me.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e819fa33a36d8169f16bc71e90ab18dbc9f57598" datatype="html">
+        <source>Cities near me</source>
+        <target>Cities near me</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/cities-near-me/cities-near-me.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dcead6815ae7ba4a743242370539c1786705fa90" datatype="html">
+        <source>View all 500+ cities </source>
+        <target>View all 500+ cities </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/cities-near-me/cities-near-me.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d1761ae9806043f7db644f5111ff630c57d21058" datatype="html">
+        <source>Aberdeen</source>
+        <target>Aberdeen</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/cities-near-me/cities-near-me.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6ce26c774a5bf8997a826ce42e169dc4c596f2d9" datatype="html">
+        <source>Belfast</source>
+        <target>Belfast</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/cities-near-me/cities-near-me.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3f96302ce380df361e5bbfa73581d93bc75d7830" datatype="html">
+        <source>Birmingham, UK</source>
+        <target>Birmingham, UK</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/cities-near-me/cities-near-me.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3ebc839846f4c6b8b000aadc87c5d474af67c86d" datatype="html">
+        <source>Brighton and Sussex</source>
+        <target>Brighton and Sussex</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/cities-near-me/cities-near-me.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f5316cdbc3b36d2ba214b9572ae2e2cb9fceb43a" datatype="html">
+        <source>Cambridge and East Anglia</source>
+        <target>Cambridge and East Anglia</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/cities-near-me/cities-near-me.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="85d548dcbf39aab2e3e481400b78f5fca6b0a845" datatype="html">
+        <source>Cardiff</source>
+        <target>Cardiff</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/cities-near-me/cities-near-me.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7aeeba89a987aca6dbeba739b3fb23ade14aba97" datatype="html">
+        <source>Countries with Uber Eats</source>
+        <target>Countries with Uber Eats</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/countries-with-uber/countries-with-uber.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1cfaecbefc8aa3939115dfba4b6883b3b673dace" datatype="html">
+        <source>About Uber Eats</source>
+        <target>About Uber Eats</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f2c42281a9b029b5a8047609e993c06860452bbb" datatype="html">
+        <source>Read our blog</source>
+        <target>Read our blog</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5d81d60b6842a337a609bfa624a6083398e2e744" datatype="html">
+        <source>Create Business Account</source>
+        <target>Create Business Account</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="72db4811e4e1fad7fd6c3458ab16e7062cd7dff4" datatype="html">
+        <source>Sign Up To Deliver</source>
+        <target>Sign Up To Deliver</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9c71feb04c2beab559f79c41c6127815fb9c1a6f" datatype="html">
+        <source>Get help</source>
+        <target>Get help</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7f1cf92f418cf914fadd17f5f69eee4831d5c860" datatype="html">
+        <source>Read FAQs</source>
+        <target>Read FAQs</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="faa2df0c3fcbb389d97dc48e2e3b2d5d78007213" datatype="html">
+        <source>View all cities</source>
+        <target>View all cities</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bba046ef7eaaf1a99e45426e51218815a537b581" datatype="html">
+        <source>Restaurants near me </source>
+        <target>Restaurants near me </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a23c9d260a2d7e2be3c3b65f5a8dd5a9d8c0ecaa" datatype="html">
+        <source>Save on your first order </source>
+        <target>Save on your first order </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="06d32290e5abb549d2ee09fa1e98d1d2caedb928" datatype="html">
+        <source>View all countries </source>
+        <target>View all countries </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b9f77c20cb48eed986485e23fd655e88af433f02" datatype="html">
+        <source>© 2020 Copyright: <x id="START_LINK" equiv-text="&lt;a href=&quot;#&quot;&gt; "/> Override All Rights Reserved. Privacy Policy<x id="CLOSE_LINK" equiv-text="&lt;/a&gt;"/></source>
+        <target>© 2020 Copyright: <x id="START_LINK" equiv-text="&lt;a href=&quot;#&quot;&gt; "/> Override All Rights Reserved. Privacy Policy<x id="CLOSE_LINK" equiv-text="&lt;/a&gt;"/></target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">102,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3f8bf63ab5e2e77b6d503e53bfcbae4ff876ee76" datatype="html">
+        <source>Feed Your Employee</source>
+        <target>Feed Your Employee</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/signup-type/signup-type.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fb8a2ca6d90b023168dd182ca2457361215722e3" datatype="html">
+        <source> Create a Business Account </source>
+        <target> Create a Business Account </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/signup-type/signup-type.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8208d7a9d20bd585ca1a90bc9b4d5314e0b149b7" datatype="html">
+        <source> Your restaurant – delivered </source>
+        <target> Your restaurant – delivered </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/signup-type/signup-type.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7f3fdc7e4e7a2e0ffa50d4334b1745bb2c96a71e" datatype="html">
+        <source> Add your restaurant </source>
+        <target> Add your restaurant </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/signup-type/signup-type.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3bbddd9880333204748e2e8f32fe1b5ffc836474" datatype="html">
+        <source>Deliver the Eats</source>
+        <target>Deliver the Eats</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/signup-type/signup-type.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="49548ce870976cd5757526871a43de1cfa34ae98" datatype="html">
+        <source> Sign up to deliver </source>
+        <target> Sign up to deliver </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/signup-type/signup-type.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="509d9d9b310ddc17cde046583c6b15456e2c9c71" datatype="html">
+        <source>There&apos;s more to love in the app.</source>
+        <target>There&apos;s more to love in the app.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/app-marketing/app-marketing.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d8af2225a733989274d1cc392760d6118edd3889" datatype="html">
+        <source>In a Nush?</source>
+        <target>In a Nush?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/in-a-nush/in-a-nush.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c4463b6317baefdb3e31f47de8cc2189db22b4ff" datatype="html">
+        <source><x id="START_LINK" equiv-text="&lt;a class=&quot;text-link&quot; href=&quot;#&quot; style=&quot;color: black;&quot;&gt;"/>View all <x id="CLOSE_LINK" equiv-text="&lt;/a&gt;"/></source>
+        <target><x id="START_LINK" equiv-text="&lt;a class=&quot;text-link&quot; href=&quot;#&quot; style=&quot;color: black;&quot;&gt;"/>View all <x id="CLOSE_LINK" equiv-text="&lt;/a&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/in-a-nush/in-a-nush.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7a631443650db27dfecb555bfb15de4c8328e42e" datatype="html">
+        <source>Today’s offers</source>
+        <target>Today’s offers</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/today-offer/today-offer.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e3a2792aca65374c3105a548484c994f48131917" datatype="html">
+        <source>New on Uber Eats</source>
+        <target>New on Uber Eats</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/new-in-fast-food/new-in-fast-food.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a06e550900756fedcbc57c92c61c65f1096e7fde" datatype="html">
+        <source>Looking for something else?</source>
+        <target>Looking for something else?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/lookingfor-something-else/lookingfor-something-else.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f824f82ec8bb324deaf39860fbb0005062cfb351" datatype="html">
+        <source>Everyday essentials</source>
+        <target>Everyday essentials</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/lookingfor-something-else/lookingfor-something-else.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9d6334db5c1ccace02c5cf67edef6ca7840dc6a3" datatype="html">
+        <source> Burger </source>
+        <target> Burger </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/lookingfor-something-else/lookingfor-something-else.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1107630eaf36323a6862b01fa73bc74f9d9ecb01" datatype="html">
+        <source> Breakfast and brunch </source>
+        <target> Breakfast and brunch </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/lookingfor-something-else/lookingfor-something-else.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3928537546c8726a7f16cd384adfccd2c84bf7b7" datatype="html">
+        <source> Korean </source>
+        <target> Korean </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/lookingfor-something-else/lookingfor-something-else.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a8bca673c2ae6813386428ff77fd685756cfb979" datatype="html">
+        <source> Asian</source>
+        <target> Asian</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/lookingfor-something-else/lookingfor-something-else.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="18fc050b8ce6124775994482e8d9e49a002a0b57" datatype="html">
+        <source> Halal </source>
+        <target> Halal </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/lookingfor-something-else/lookingfor-something-else.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="116d12a850851dcf56a852738f15fa7f6c03b24c" datatype="html">
+        <source> Chinese</source>
+        <target> Chinese</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/lookingfor-something-else/lookingfor-something-else.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10d79e5f4b7d24bbc454550275f3a75838307b09" datatype="html">
+        <source> Asian Fusion </source>
+        <target> Asian Fusion </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/lookingfor-something-else/lookingfor-something-else.component.html</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

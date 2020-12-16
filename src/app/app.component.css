@@ -1,0 +1,13 @@
+body {
+  background: #FFFFFF;
+  color: #000000;
+  font-family: UberMoveText-Regular, sans-serif;
+}
+
+.special-color {
+color: #06C167;
+}
+
+.general-color {
+color: #EEEEEE;
+}
